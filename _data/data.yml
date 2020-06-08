@@ -1,0 +1,171 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Vikas Srivastava
+    tagline: Bigdata Solution Architect
+    avatar: vikas.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: er.vikassri@gmail.com
+    phone: +91 9319858532
+    website: https://blogs.github.io/blogs #do not add http://
+    linkedin: vikas-srivastava-21060819
+    github: vikassri
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@onlyricks'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    hackerank: https://www.hackerrank.com/er_vikassri
+
+    languages:
+      - idiom: English
+        level: Native
+
+      - idiom: Spanish
+        level: Novice
+
+    interests:
+      - item: Table Tennis
+        link:
+
+      - item: Cricket
+        link:
+
+      - item: Writing blogs
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      11+ years of total experience, In which 8+ years in Big Data, Analytics and Hadoop development. Expertise in Implementing Bigdata on Cloud and on Premise. 2+ Years in Architect, providing solution and designing of Bigdata clusters. In depth knowledge of Hadoop Architecture and various components such as Hadoop, Spark, Kafka, Storm, Cassandra and YARN/MapReduce programming paradigm.
+education:
+    - degree: B.Tech in Information Technology
+      university: University of Rajasthan
+      time: 2004 - 2008
+      details: |
+        Studied Information technology, various languages like Python, Java.
+        Scored 75% Overall, Learned core concept of SDLS and Programming. 
+        final year project: 
+          - Social Networking Website
+          - Html Editor
+experiences:
+    - role: Senior Solution Consultant
+      time: 2018 - Present
+      company: Cloudera, Bangalore
+      details: |
+        Working with the different client around the world, Some of them are biggest Ecommers and Telecom. Helping them in building the cluster and implement security. Solving Issue of the customer regarding cluster and performance Provide guidance on performance tuning and upgrading cluster
+          - Implementation of Solutions
+          - OnPremise to Cloud Migrations
+          - Performance Tuning 
+    - role: Data Engineer
+      time: 2016 - 2018
+      company: SCB, Singapore
+      details: |
+        Experience in Building and analyzing Big Data solutions using various big data technologies and integrating the same into other data sources,Strong knowledge of HDFS, Map Reduce, spark, Data Science, Hive, Oozie, AVRO serialization frameworks, Sqoop and Flume, SQL, Kafka and Data Science
+          - Builiding Bigdata Pipelines
+          - Automations
+          - Developing Applications
+    - role: Tech Lead (Bigdata)
+      time: 2014 - 2016
+      company: HCL, Noida
+      details: |
+        Handling Team and responsible of building Best Datawarehouse. Involved in all phases of the SDLC including analysis, design, development, testing, and deployment of Hadoop cluster. Worked on the proof-of-concept for Apache Hadoop framework initiation, Worked on Installing and configuring MapReduce, HDFS and developed multiple MapReduce jobs in java for data cleaning and preprocessing.Wrote Hive UDFs in Java where the functionality is too complex.
+          - Writing Custom UDF
+          - Implementing Data Pipeline
+          - Writing Scripts
+    - role: Tech Lead (Bigdata)
+      time: 2012 - 2014
+      company: TCS, Gurgaon
+      details: |
+        Worked for client APPLE Inc in their bigdata Administration team, taking care of bigdata administration task from offshore. Share responsibilities like implementation of bigdata clusters and Security etc.
+          - Bigdata Cluster and Secuirty implementation
+          - Automation scripts
+    - role: Bigdata Engineer
+      time: 2008 - 2012
+      company: PayTM, Noida
+      details: |
+        Application development in the initial stage and then moved to R&D team and started working on hadoop, I have setup first cluster their along with Mahout for Analytics.
+          - Application Develepment
+          - Cluster Implementation
+projects:
+    title: Projects & Interests
+    intro: >
+      Below are some of my projects.
+    assignments:
+      - title: Bigdatum Blogs
+        link: "#hook"
+        tagline: "Writing technical Blogs about latest trends and technologies."
+
+      - title: HDP-CDP Migration
+        link: "#"
+        tagline: "Writing Codes to migrate the customers from HDP clusters to new CDP cluster using some custom scripts"
+
+      - title: Hadoop Automation
+        link: "#"
+        tagline: "Ansible Scripts to create bigdata cluster on different environments. One can create the single node and well as multinode cluster using these scripts."
+
+      - title: HTML editor
+        link: "#"
+        tagline: "Developed HTML Editor, which helps people to create static websites using drag and drop of tags and view the page in same panels."
+
+publications:
+    title: Certifications
+    intro: |
+      I have completed below certifications.
+    papers:
+      - title: "AWS Solution Architect"
+        link: "https://www.linkedin.com/company/amazon-web-services"
+        authors: Amazon Web Services
+        conference: feb, 2020
+
+      - title: "HDPCA- Hortonworks Dataplatform Certified Administration"
+        link: "https://www.linkedin.com/company/hortonworks"
+        authors: Hortonworks.
+        conference: "Sep, 2019"
+
+      - title: "HDPCD- Hortonworks Dataplatform Certified Developer"
+        link: "https://www.linkedin.com/company/hortonworks"
+        authors: Hortonworks.
+        conference: "Sep, 2019"
+
+      - title: "HDP Developer: Spark 2.x"
+        link: "https://www.linkedin.com/company/hortonworks"
+        authors: Hortonworks.
+        conference: "Sep, 2018"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Bigdata Architecture
+        level: 95%
+
+      - name: Bigdata Implementation 
+        level: 90%
+
+      - name: Python & Automation 
+        level: 85%
+
+      - name: MicroServices
+        level: 80%
+
+      - name: Bigdata Security 
+        level: 85%
+
+      - name: Bigdata pipeline
+        level: 80%
+
+      - name: DevOps & Cloud
+        level: 80%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
