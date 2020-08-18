@@ -14,7 +14,7 @@ sidebar:
   # Sidebar links
   email: er.vikassri@gmail.com
   phone: +91 9319858532
-  website: https://vikassri.in #do not add http://
+  website: vikassri.in #do not add http://
   linkedin: vikas-srivastava-21060819
   github: vikassri
   telegram: # add your nickname without '@' sign
@@ -102,7 +102,7 @@ projects:
     Below are some of my projects.
   assignments:
     - title: Bigdatum Blogs
-      link: "#hook"
+      link: "https://vikassri.in"
       tagline: "Writing technical Blogs about latest trends and technologies."
 
     - title: HDP-CDP Migration
